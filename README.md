@@ -1,4 +1,4 @@
-## MIDTERMS ARE AWESOME
+## MIDTERMS ARE 
 
 We are working on assignment that argues about mac vs windows on an HTML page.
 
