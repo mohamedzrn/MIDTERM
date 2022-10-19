@@ -1,4 +1,4 @@
-## MIDTERMS
+## MIDTERMS is good
 
 We are working on assignment that argues about mac vs windows on an HTML page.
 
